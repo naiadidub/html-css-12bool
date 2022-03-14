@@ -1,0 +1,36 @@
+.setting{
+    height: 50px;
+}
+.debug{
+    border: 1px solid black;
+}
+.whitegrey{
+    background-color: #CEC4C0;
+}
+.black{
+    background-color: black;
+}
+.grey{
+    background-color: grey;
+}
+.dark-grey{
+    background-color: #5E5755;
+}
+.begie{
+    background-color: brown;
+}
+.dark-begie{
+    background-color: #782105;
+}
+.pink{
+    background-color: pink;
+}
+.dark-pink{
+    background-color: #D5A7D6;
+}
+.skin{
+    background-color: #E4C6AB;
+}
+.dark-skin{
+    background-color: #B59D87;
+}
