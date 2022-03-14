@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.section-container{
+.size{
     height: 50px;
     background-color: rgb(153, 204, 255);
     padding: 12px;
@@ -20,8 +20,8 @@
 }
 .nasted{
     background-color: green;
-    height: 30px;
+    height: auto;
     color: white;
     border: 1px solid white;
-    padding: 5px;
+    padding: 2px;
 }
