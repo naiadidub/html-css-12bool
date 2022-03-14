@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.size{
+    height: 50px;
+    background-color: rgb(153, 204, 255);
+    padding: 12px;
+    border: 1px solid white;
+    color: white;
+}
+.nasted-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.nasted{
+    background-color: green;
+    height: 30px;
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+}
